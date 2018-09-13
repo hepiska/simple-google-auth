@@ -4,6 +4,9 @@ google auth react component
 simple google auth for react
 
 ## how to use
+npm i -S simple-google-auth
+
+## how to use
 ```javascript
 import React from 'react'
 import GoogleAuth, {GoogleLogout} from 'simple-google-auth'
